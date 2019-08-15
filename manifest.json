@@ -1,8 +1,8 @@
 {
-  "app.js": "/static/app.6942cb2d136bb8bb2347.js",
-  "app.js.map": "/static/app.6942cb2d136bb8bb2347.js.map",
-  "vendor.js": "/static/vendor.6942cb2d136bb8bb2347.js",
-  "vendor.js.map": "/static/vendor.6942cb2d136bb8bb2347.js.map",
+  "app.js": "/static/app.10cc254c1c966e9bee98.js",
+  "app.js.map": "/static/app.10cc254c1c966e9bee98.js.map",
+  "vendor.js": "/static/vendor.10cc254c1c966e9bee98.js",
+  "vendor.js.map": "/static/vendor.10cc254c1c966e9bee98.js.map",
   "error.wav": "/199b5352639f3881890888b0df965beb.wav",
   "bot-6-0.jpg": "/21b1ef0672c73cf6e409faa661fb7849.jpg",
   "bot-3-1.jpg": "/286f69b7bb61900a16994c96e0910d26.jpg",
@@ -66,6 +66,6 @@
   "favicon.ico": "/favicon.ico",
   "recycle-full.png": "/ff3841f0b9026377fe108dd220e3a6b2.png",
   "index.html": "/index.html",
-  "static/app.6942cb2d136bb8bb2347.js.LICENSE": "/static/app.6942cb2d136bb8bb2347.js.LICENSE",
-  "static/vendor.6942cb2d136bb8bb2347.js.LICENSE": "/static/vendor.6942cb2d136bb8bb2347.js.LICENSE"
+  "static/app.10cc254c1c966e9bee98.js.LICENSE": "/static/app.10cc254c1c966e9bee98.js.LICENSE",
+  "static/vendor.10cc254c1c966e9bee98.js.LICENSE": "/static/vendor.10cc254c1c966e9bee98.js.LICENSE"
 }
