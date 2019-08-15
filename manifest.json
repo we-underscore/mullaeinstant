@@ -1,6 +1,8 @@
 {
-  "app.js": "/app.84d9c676bbe5f086d2fc.js",
-  "vendor.js": "/vendor.84d9c676bbe5f086d2fc.js",
+  "app.js": "/static/app.0bcc04ae2afcefd8bf99.js",
+  "app.js.map": "/static/app.0bcc04ae2afcefd8bf99.js.map",
+  "vendor.js": "/static/vendor.0bcc04ae2afcefd8bf99.js",
+  "vendor.js.map": "/static/vendor.0bcc04ae2afcefd8bf99.js.map",
   "error.wav": "/199b5352639f3881890888b0df965beb.wav",
   "bot-6-0.jpg": "/21b1ef0672c73cf6e409faa661fb7849.jpg",
   "bot-3-1.jpg": "/286f69b7bb61900a16994c96e0910d26.jpg",
@@ -17,6 +19,7 @@
   "bot-4-1.jpg": "/931a11e8c3153adbd3f9761f578d0fd0.jpg",
   "recycle.png": "/9d5703216eba1a554826b67b6f0d9256.png",
   "bot-1-0.jpg": "/9fbb920c7f1f91ff5601de257f318364.jpg",
+  "CNAME": "/CNAME",
   "instagram.png": "/a0d02930b6f072ed06c78cdb9eb6ff0a.png",
   "all-programs.ico": "/a48640a284521dc4184480c904702eab.ico",
   "assets/Kevin_MacLeod_-_P_I_Tchaikovsky_Dance_of_the_Sugar_Plum_Fairy.mp3": "/assets/Kevin_MacLeod_-_P_I_Tchaikovsky_Dance_of_the_Sugar_Plum_Fairy.mp3",
