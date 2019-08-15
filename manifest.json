@@ -1,8 +1,8 @@
 {
-  "app.js": "/static/app.8f2b0cb66fad5be15581.js",
-  "app.js.map": "/static/app.8f2b0cb66fad5be15581.js.map",
-  "vendor.js": "/static/vendor.8f2b0cb66fad5be15581.js",
-  "vendor.js.map": "/static/vendor.8f2b0cb66fad5be15581.js.map",
+  "app.js": "/static/app.a2819412ec52b8cafc89.js",
+  "app.js.map": "/static/app.a2819412ec52b8cafc89.js.map",
+  "vendor.js": "/static/vendor.a2819412ec52b8cafc89.js",
+  "vendor.js.map": "/static/vendor.a2819412ec52b8cafc89.js.map",
   "error.wav": "/199b5352639f3881890888b0df965beb.wav",
   "bot-6-0.jpg": "/21b1ef0672c73cf6e409faa661fb7849.jpg",
   "bot-3-1.jpg": "/286f69b7bb61900a16994c96e0910d26.jpg",
@@ -65,5 +65,7 @@
   "bot-0-1.jpg": "/f0247b551fb13f54d8195239c810cbe8.jpg",
   "favicon.ico": "/favicon.ico",
   "recycle-full.png": "/ff3841f0b9026377fe108dd220e3a6b2.png",
-  "index.html": "/index.html"
+  "index.html": "/index.html",
+  "static/app.a2819412ec52b8cafc89.js.LICENSE": "/static/app.a2819412ec52b8cafc89.js.LICENSE",
+  "static/vendor.a2819412ec52b8cafc89.js.LICENSE": "/static/vendor.a2819412ec52b8cafc89.js.LICENSE"
 }
