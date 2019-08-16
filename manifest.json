@@ -1,8 +1,8 @@
 {
-  "app.js": "/static/app.cd7dec97fd4ea0096b33.js",
-  "app.js.map": "/static/app.cd7dec97fd4ea0096b33.js.map",
-  "vendors~app.js": "/static/vendors~app.cd7dec97fd4ea0096b33.js",
-  "vendors~app.js.map": "/static/vendors~app.cd7dec97fd4ea0096b33.js.map",
+  "app.js": "/static/app.15197909d8852cebe83a.js",
+  "app.js.map": "/static/app.15197909d8852cebe83a.js.map",
+  "vendors~app.js": "/static/vendors~app.15197909d8852cebe83a.js",
+  "vendors~app.js.map": "/static/vendors~app.15197909d8852cebe83a.js.map",
   "CNAME": "/CNAME",
   "assets/error.wav": "/assets/199b5352639f3881890888b0df965beb.wav",
   "assets/view-info.ico": "/assets/415b027d489dfadce00f9e229872e609.ico",
@@ -12,5 +12,5 @@
   "assets/narrator.ico": "/assets/e23232f0ee9089a33025c8a1aa81146b.ico",
   "favicon.ico": "/favicon.ico",
   "index.html": "/index.html",
-  "static/vendors~app.cd7dec97fd4ea0096b33.js.LICENSE": "/static/vendors~app.cd7dec97fd4ea0096b33.js.LICENSE"
+  "static/vendors~app.15197909d8852cebe83a.js.LICENSE": "/static/vendors~app.15197909d8852cebe83a.js.LICENSE"
 }
