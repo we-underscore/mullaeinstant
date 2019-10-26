@@ -1,6 +1,6 @@
 {
-  "app.js": "/static/app.e1f326e06672828ef5d8.js",
-  "app.js.map": "/static/app.e1f326e06672828ef5d8.js.map",
+  "app.js": "/static/app.81772b6d91fde3ea08dd.js",
+  "app.js.map": "/static/app.81772b6d91fde3ea08dd.js.map",
   "error.wav": "/199b5352639f3881890888b0df965beb.wav",
   "bot-6-0.jpg": "/21b1ef0672c73cf6e409faa661fb7849.jpg",
   "bot-3-1.jpg": "/286f69b7bb61900a16994c96e0910d26.jpg",
@@ -75,5 +75,6 @@
   "bot-0-1.jpg": "/f0247b551fb13f54d8195239c810cbe8.jpg",
   "favicon.ico": "/favicon.ico",
   "recycle-full.png": "/ff3841f0b9026377fe108dd220e3a6b2.png",
-  "index.html": "/index.html"
+  "index.html": "/index.html",
+  "static/app.81772b6d91fde3ea08dd.js.LICENSE": "/static/app.81772b6d91fde3ea08dd.js.LICENSE"
 }
