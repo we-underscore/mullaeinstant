@@ -1,10 +1,10 @@
 {
-  "app.js": "/static/app.bc892bd9772e26d5d5e8.js",
-  "app.css": "/styles/styles.bc892bd9772e26d5d5e8.css",
-  "app.js.map": "/static/app.bc892bd9772e26d5d5e8.js.map",
-  "app.css.map": "/styles/styles.bc892bd9772e26d5d5e8.css.map",
-  "vendors~pdfjsWorker.js": "/static/vendors~pdfjsWorker.bc892bd9772e26d5d5e8.js",
-  "vendors~pdfjsWorker.js.map": "/static/vendors~pdfjsWorker.bc892bd9772e26d5d5e8.js.map",
+  "app.js": "/static/app.859815dc1004b637febf.js",
+  "app.css": "/styles/styles.859815dc1004b637febf.css",
+  "app.js.map": "/static/app.859815dc1004b637febf.js.map",
+  "app.css.map": "/styles/styles.859815dc1004b637febf.css.map",
+  "vendors~pdfjsWorker.js": "/static/vendors~pdfjsWorker.859815dc1004b637febf.js",
+  "vendors~pdfjsWorker.js.map": "/static/vendors~pdfjsWorker.859815dc1004b637febf.js.map",
   "jpeg.png": "/03b15e4342d3f615e277aa68e77d7c40.png",
   "trash16.JPG": "/11915422bfad2ec93f2c8e98a335b4e3.JPG",
   "trash4.JPG": "/197f45f5fcea56ca7043bb9b566b577d.JPG",
@@ -109,6 +109,6 @@
   "favicon.ico": "/favicon.ico",
   "recycle-full.png": "/ff3841f0b9026377fe108dd220e3a6b2.png",
   "index.html": "/index.html",
-  "static/app.bc892bd9772e26d5d5e8.js.LICENSE": "/static/app.bc892bd9772e26d5d5e8.js.LICENSE",
-  "static/vendors~pdfjsWorker.bc892bd9772e26d5d5e8.js.LICENSE": "/static/vendors~pdfjsWorker.bc892bd9772e26d5d5e8.js.LICENSE"
+  "static/app.859815dc1004b637febf.js.LICENSE": "/static/app.859815dc1004b637febf.js.LICENSE",
+  "static/vendors~pdfjsWorker.859815dc1004b637febf.js.LICENSE": "/static/vendors~pdfjsWorker.859815dc1004b637febf.js.LICENSE"
 }
