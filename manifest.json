@@ -1,6 +1,6 @@
 {
-  "app.js": "/static/app.db0cec10feb4e6ba78c5.js",
-  "app.js.map": "/static/app.db0cec10feb4e6ba78c5.js.map",
+  "app.js": "/static/app.4b87d0dbfc8ff3769e35.js",
+  "app.js.map": "/static/app.4b87d0dbfc8ff3769e35.js.map",
   "CNAME": "/CNAME",
   "assets/.DS_Store": "/assets/.DS_Store",
   "assets/jpeg.png": "/assets/03b15e4342d3f615e277aa68e77d7c40.png",
@@ -103,5 +103,5 @@
   "assets/wiki/moving.gif": "/assets/wiki/moving.gif",
   "favicon.ico": "/favicon.ico",
   "index.html": "/index.html",
-  "static/app.db0cec10feb4e6ba78c5.js.LICENSE": "/static/app.db0cec10feb4e6ba78c5.js.LICENSE"
+  "static/app.4b87d0dbfc8ff3769e35.js.LICENSE": "/static/app.4b87d0dbfc8ff3769e35.js.LICENSE"
 }
