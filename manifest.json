@@ -1,8 +1,8 @@
 {
-  "app.js": "/static/app.104271972b9ceddf7ccf.js",
-  "app.js.map": "/static/app.104271972b9ceddf7ccf.js.map",
-  "vendors~app.js": "/static/vendors~app.104271972b9ceddf7ccf.js",
-  "vendors~app.js.map": "/static/vendors~app.104271972b9ceddf7ccf.js.map",
+  "app.js": "/static/app.6b5ba1bbadc8510ded03.js",
+  "app.js.map": "/static/app.6b5ba1bbadc8510ded03.js.map",
+  "vendors~app.js": "/static/vendors~app.6b5ba1bbadc8510ded03.js",
+  "vendors~app.js.map": "/static/vendors~app.6b5ba1bbadc8510ded03.js.map",
   "CNAME": "/CNAME",
   "assets/.DS_Store": "/assets/.DS_Store",
   "assets/jpeg.png": "/assets/03b15e4342d3f615e277aa68e77d7c40.png",
@@ -44,6 +44,7 @@
   "assets/trash11.JPG": "/assets/e4ab3dfcda9ab7aab75953a9b0d40b93.JPG",
   "assets/recycle-full.png": "/assets/ff3841f0b9026377fe108dd220e3a6b2.png",
   "assets/images/.DS_Store": "/assets/images/.DS_Store",
+  "assets/images/mullaeinstant.png": "/assets/images/mullaeinstant.png",
   "assets/images/recycle/.DS_Store": "/assets/images/recycle/.DS_Store",
   "assets/images/recycle/original/trash1.JPG": "/assets/images/recycle/original/trash1.JPG",
   "assets/images/recycle/original/trash10.JPG": "/assets/images/recycle/original/trash10.JPG",
@@ -92,6 +93,5 @@
   "assets/wiki/moving.gif": "/assets/wiki/moving.gif",
   "favicon.ico": "/favicon.ico",
   "index.html": "/index.html",
-  "mullaeInstant.png": "/mullaeInstant.png",
-  "static/vendors~app.104271972b9ceddf7ccf.js.LICENSE": "/static/vendors~app.104271972b9ceddf7ccf.js.LICENSE"
+  "static/vendors~app.6b5ba1bbadc8510ded03.js.LICENSE": "/static/vendors~app.6b5ba1bbadc8510ded03.js.LICENSE"
 }
