@@ -1,8 +1,8 @@
 {
-  "app.js": "/static/app.0df2f28b58a49e745340.js",
-  "app.js.map": "/static/app.0df2f28b58a49e745340.js.map",
-  "vendors~app.js": "/static/vendors~app.0df2f28b58a49e745340.js",
-  "vendors~app.js.map": "/static/vendors~app.0df2f28b58a49e745340.js.map",
+  "app.js": "/static/app.922151f9191278792c7d.js",
+  "app.js.map": "/static/app.922151f9191278792c7d.js.map",
+  "vendors~app.js": "/static/vendors~app.922151f9191278792c7d.js",
+  "vendors~app.js.map": "/static/vendors~app.922151f9191278792c7d.js.map",
   "CNAME": "/CNAME",
   "assets/.DS_Store": "/assets/.DS_Store",
   "assets/trash16.JPG": "/assets/11915422bfad2ec93f2c8e98a335b4e3.JPG",
@@ -91,5 +91,5 @@
   "assets/wiki/moving.gif": "/assets/wiki/moving.gif",
   "favicon.ico": "/favicon.ico",
   "index.html": "/index.html",
-  "static/vendors~app.0df2f28b58a49e745340.js.LICENSE": "/static/vendors~app.0df2f28b58a49e745340.js.LICENSE"
+  "static/vendors~app.922151f9191278792c7d.js.LICENSE": "/static/vendors~app.922151f9191278792c7d.js.LICENSE"
 }
