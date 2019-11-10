@@ -1,11 +1,10 @@
 {
-  "app.js": "/static/app.6b5ba1bbadc8510ded03.js",
-  "app.js.map": "/static/app.6b5ba1bbadc8510ded03.js.map",
-  "vendors~app.js": "/static/vendors~app.6b5ba1bbadc8510ded03.js",
-  "vendors~app.js.map": "/static/vendors~app.6b5ba1bbadc8510ded03.js.map",
+  "app.js": "/static/app.0df2f28b58a49e745340.js",
+  "app.js.map": "/static/app.0df2f28b58a49e745340.js.map",
+  "vendors~app.js": "/static/vendors~app.0df2f28b58a49e745340.js",
+  "vendors~app.js.map": "/static/vendors~app.0df2f28b58a49e745340.js.map",
   "CNAME": "/CNAME",
   "assets/.DS_Store": "/assets/.DS_Store",
-  "assets/jpeg.png": "/assets/03b15e4342d3f615e277aa68e77d7c40.png",
   "assets/trash16.JPG": "/assets/11915422bfad2ec93f2c8e98a335b4e3.JPG",
   "assets/135578__kingsamas__night-atmo-churchbells.mp3": "/assets/135578__kingsamas__night-atmo-churchbells.mp3",
   "assets/trash4.JPG": "/assets/197f45f5fcea56ca7043bb9b566b577d.JPG",
@@ -36,7 +35,6 @@
   "assets/trash12.JPG": "/assets/b85f61803742ce8cf035eae383ce22b1.JPG",
   "assets/restart.ico": "/assets/bfcfd28fbabd92589d0974b2760ed758.ico",
   "assets/trash15.JPG": "/assets/c15020887b79baf702821611b8d77940.JPG",
-  "assets/miIntro.png": "/assets/c65be4c2d4c39ac4c6f26172e8b59846.png",
   "assets/trash17.JPG": "/assets/c9fa16c4e32790a2a2e740efb2750a96.JPG",
   "assets/trash5.JPG": "/assets/d431454fae4269d8b620ff228c406498.JPG",
   "assets/udscr.png": "/assets/dbdb89904df4578fa748ec0487136296.png",
@@ -93,5 +91,5 @@
   "assets/wiki/moving.gif": "/assets/wiki/moving.gif",
   "favicon.ico": "/favicon.ico",
   "index.html": "/index.html",
-  "static/vendors~app.6b5ba1bbadc8510ded03.js.LICENSE": "/static/vendors~app.6b5ba1bbadc8510ded03.js.LICENSE"
+  "static/vendors~app.0df2f28b58a49e745340.js.LICENSE": "/static/vendors~app.0df2f28b58a49e745340.js.LICENSE"
 }
